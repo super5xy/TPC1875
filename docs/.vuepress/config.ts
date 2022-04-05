@@ -1,7 +1,7 @@
 module.exports = {
   title: '经典语录',
   description: 'TPC1875的经典语录',
-  base: '/TPC1875-Quotations/',
+  base: '/TPC1875/',
   plugins: [['@vuepress/plugin-search']],
   themeConfig: {
     //repo: 'super5xy/TPC1875',
