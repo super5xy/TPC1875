@@ -1,0 +1,14 @@
+{
+  "name": "vuepress",
+  "version": "1.0.0",
+  "description": "经典语录",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "super5xy",
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.37"
+  }
+}
