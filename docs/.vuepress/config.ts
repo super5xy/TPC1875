@@ -13,8 +13,8 @@ module.exports = {
     darkMode: false,
     navbar: [
       { text: '主页', link: '/' },
-      { text: '快速开始', link: '/quickstart/' },
-      //{ text: '', link: '//' },
+      { text: '语录', link: '/quickstart/' },
+      { text: '摄影精选', link: '/photography/' },
       //{ text: '', link: '//' },
       //{ text: '', link: '//' },
       //{ text: '', link: '//' },
