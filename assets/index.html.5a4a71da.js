@@ -1,0 +1,1 @@
+const t={key:"v-7465afa1",path:"/quickstart/",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"\u8BED\u5F55",slug:"\u8BED\u5F55",children:[]}],git:{updatedTime:1708861472e3,contributors:[{name:"Yukino",email:"super5xy@163.com",commits:1}]},filePathRelative:"quickstart/README.md"};export{t as data};
